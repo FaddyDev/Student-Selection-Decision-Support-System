@@ -1,3 +1,5 @@
+An application to help in placement of primary school pupils to secondary schools of choice.
+
 ###################
 What is CodeIgniter
 ###################
